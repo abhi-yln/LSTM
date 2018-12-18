@@ -1,5 +1,9 @@
-# LSTM
-# Time Series Analysis for Stock Prediction using LSTM
+# Time Series Analysis for AAL Company Stock Prediction using LSTM - Artificial Nural Networks
+# Authors: Abhijith,Bharath,Krishna
+# IISC Proficiency Course Project-Computational Machine Learning
+
+# Description:
+
 Stock buyer wants to decide when to buy stocks and when to sell them to gain profit. This is where time series modelling comes in. machine learning models that can look at the history of a sequence of data and correctly predict the future elements of the sequence are going to be.
 Stock market prices are highly unpredictable and volatile. This means that there are no consistent patterns in the data that allows us to model stock prices over time near-perfectly.
 
